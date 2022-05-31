@@ -9,7 +9,7 @@ This a simple project where i created a clone of amazon prime login page using o
 </ul>
 <h3>How to run the project</h3><br>
 Running the project is easy.The user only have to scroll up and down .<br>
-Link for the website-https://ankitIITRPR.github.io/ankitIITRPR.github.io/index.html
+Link for the website-https://ankitIITRPR.github.io/Amazon_clone/index.html
 
 <br>
 Here Are Some Pictures:-<br>
